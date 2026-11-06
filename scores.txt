@@ -1,0 +1,16 @@
+Depth: 1 Kills: 0 Gold: 0
+Depth: 2 Kills: 8 Gold: 51
+Depth: 1 Kills: 6 Gold: 27
+Depth: 2 Kills: 7 Gold: 101
+Depth: 3 Kills: 14 Gold: 124
+Depth: 3 Kills: 27 Gold: 279
+Depth: 3 Kills: 26 Gold: 234
+Depth: 3 Kills: 19 Gold: 109
+Depth: 3 Kills: 12 Gold: 110
+Depth: 3 Kills: 24 Gold: 257
+Depth: 4 Kills: 18 Gold: 172
+Depth: 3 Kills: 12 Gold: 84
+Depth: 2 Kills: 14 Gold: 119
+Depth: 4 Kills: 31 Gold: 316
+Depth: 2 Kills: 8 Gold: 62
+Depth: 3 Kills: 14 Gold: 127
